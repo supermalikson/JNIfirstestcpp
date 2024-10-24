@@ -1,0 +1,3 @@
+C:/Users/cheki/CLionProjects/utpjnicpart/cmake-build-debug/CMakeFiles/utpjnicpart.dir
+C:/Users/cheki/CLionProjects/utpjnicpart/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cheki/CLionProjects/utpjnicpart/cmake-build-debug/CMakeFiles/rebuild_cache.dir

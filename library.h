@@ -1,0 +1,6 @@
+#ifndef UTPJNICPART_LIBRARY_H
+#define UTPJNICPART_LIBRARY_H
+
+void hello();
+
+#endif //UTPJNICPART_LIBRARY_H
